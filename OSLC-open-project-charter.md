@@ -77,7 +77,7 @@ Existing projects, specifications, or repositories that may be contributed to th
 Preliminary:
 
 * KTH Royal Institute of Technology - Andrew Berezovskyi
-* IBM - TBD
+* IBM - Jim Amsden
 * Koneksys - Axel Reichwein
 
 
@@ -86,4 +86,5 @@ Preliminary:
 Preliminary:
 
 * KTH Royal Institute of Technology - Andrii Berezovskyi, Jad El-khoury
+* IBM - Jim Amsden
 * Koneksys - Axel Reichwein
