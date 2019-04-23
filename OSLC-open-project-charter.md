@@ -76,15 +76,16 @@ Existing projects, specifications, or repositories that may be contributed to th
 
 Preliminary:
 
-* KTH Royal Institute of Technology - Andrew Berezovskyi
 * IBM - Jim Amsden
 * Koneksys - Axel Reichwein
-
+* KTH Royal Institute of Technology - Andrew Berezovskyi
+* Siemens AG - Bill Chown
 
 ### 8.2 Technical Steering Committee
 
 Preliminary:
 
-* KTH Royal Institute of Technology - Andrii Berezovskyi, Jad El-khoury
 * IBM - Jim Amsden
 * Koneksys - Axel Reichwein
+* KTH Royal Institute of Technology - Andrii Berezovskyi, Jad El-khoury
+* Siemens AG - Bill Chown
