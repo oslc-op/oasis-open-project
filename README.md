@@ -1,89 +1,48 @@
-*Note: this template is provided to give you a good idea about the kind of information you should include in a README.md file as a best practice. You may copy and edit it as you see fit for your community. What do you want people to know about your project who are just coming across it for the first time? OASIS Staff are happy to collaborate with you as well.*
+=== README.md ===
+<img src="graphics/oslc-logo.png">
 
-# Project Title
+#OSLC Open Project
 
-One Paragraph of project description goes here. Include the copy: "<PROJECT NAME> is an [OASIS Open Project](https://oasis-open-projects.org/)"
+Open Services for Lifecycle Collaboration (OSLC-OP) is an [OASIS Open Project](https://oasis-open-projects.org/) dedicated to the creation of open standards, reference implementations, and test suites for an open and extensible framework that enables loosely coupled integration between independently developed tools. OSLC builds on the WWW Architecture and supporting standards to define a minimal set of capabilities that support integration scenarios though standard services for resource and capability discovery and UI enablement.
 
-## Getting Started
+For more information on OSLC, see the project's website at https://open-services.net/.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+#Contributing
 
-### Prerequisites
+Please read [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-What things you need to install the software and how to install them
+#Governance
 
-```
-Give examples
-```
+OSLC-OP operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](LICENSE.md). 
 
-### Installing
+##Project Governing Board (PGB)
 
-A step by step series of examples that tell you how to get a development env running
+The work of the OSLC Open Project is overseen by its Project Governing Board. The members of the PGB are:
 
-Say what the step will be
+- IBM - Jim Amsden
+- Koneksys - Axel Reichwein
+- KTH Royal Institute of Technology - Andrew Berezovskyi
+- Siemens AG - Bill Chown
 
-```
-Give the example
-```
+##Technical Steering Committee (TSC) 
 
-And repeat
+Detailed work of the project is overseen by its Technical Steering Committee. The members of the TSC are: 
 
-```
-until finished
-```
+- IBM - Jim Amsden
+- Koneksys - Axel Reichwein
+- KTH Royal Institute of Technology - Andrew Berezovskyi
+- Siemens AG - Bill Chown
 
-End with an example of getting some data out of the system or using it for a little demo
+The TSC may establish other committees to address specific technical topics as the need arises.
 
-## Running the tests
+For information on how to become a member of either the PGB or the TSC, see ... 
 
-Explain how to run the automated tests for this system
+#Information and Feedback
 
-### Break down into end to end tests
+The OSLC Open Project maintains a general purpose mailing list at oslc-op@lists.oasis-open.org. Archives of the list are at http://lists.oasis-open.org/archives/oslc-op. You must subscribe in order to send to the list. To subscribe, send an empty email to oslc-op-subscribe@lists.oasis-open.org. Reply to the confirmation request to activate your subscription. 
 
-Explain what these tests test and why
+The Project Governing Board maintains a mailing list for PGB members at oslc-op-pgb@lists.oasis-open.org. This list is available only to members of the PGB. Its archives are available at http://lists.oasis-open.org/archives/oslc-op-pgb. 
 
-```
-Give an example
-```
+Questions, issues, and comments can also be raised in this repository's issues list. 
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CODE_OF_CONDUCT](link to your code_of_conduct.md file) and [CONTRIBUTING.md](link to your contributing.md file) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors &/or TSC & PGB members
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Please send any general questions about OASIS Open Projects to staff at op-admin@oasis-open.org. Information about the Open Projects program can be found at https://oasis-open-projects.org.
