@@ -1,5 +1,4 @@
-=== README.md ===
-<img src="graphics/oslc-logo.png">
+<img src="graphics/oslc-logo.png" width="50">
 
 #OSLC Open Project
 
