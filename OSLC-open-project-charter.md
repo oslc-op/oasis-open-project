@@ -1,4 +1,5 @@
 <img src="graphics/oslc-logo.png" width="50"> 
+
 # OSLC Open Project Charter
 
 ## 1. Project Name
