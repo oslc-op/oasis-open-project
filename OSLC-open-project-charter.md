@@ -38,7 +38,7 @@ OSLC Core supports adaptive integration through Minimal, discoverable, self-desc
 The OSLC-OP is a reorganization of the existing OSLC Core and Domains Technical Committees that were responsible for developing the OASIS OSLC Standards. The intent of the OSLC-OP is to ground the development of the standards in reference implementations and test suites that help in the development of the standards, and accelerate their adoption and effective use.
 
 ## 6. Repositories and Licenses
-https://github.com/eclipse/oslc-op (with issues, wiki and project management)
+https://github.com/oslc-op (with issues, wiki and project management)
 
 Attribution 4.0 International (CC BY 4.0) for the specifications.
 
