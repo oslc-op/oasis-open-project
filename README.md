@@ -34,7 +34,7 @@ Detailed work of the project is overseen by its Technical Steering Committee. Th
 
 The TSC may establish other committees to address specific technical topics as the need arises.
 
-For information on how to become a member of either the PGB or the TSC, see ... 
+For information on how to participate in the project, see [CONTRIBUTING.md](CONTRIBUTING.md). If you are interested in becoming a member of either the PGB or the TSC, contact the Open Projects Administrator at op-admin@lists.oasis-open.org. 
 
 # Information and Feedback
 
