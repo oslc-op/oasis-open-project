@@ -76,16 +76,12 @@ Existing projects, specifications, or repositories that may be contributed to th
 ## 8. Project Leadership
 ### 8.1 Project Governing Board
 
-Preliminary:
-
 * IBM - Jim Amsden
 * Koneksys - Axel Reichwein
 * KTH Royal Institute of Technology - Andrew Berezovskyi
 * Siemens AG - Bill Chown
 
 ### 8.2 Technical Steering Committee
-
-Preliminary:
 
 * IBM - Jim Amsden
 * Koneksys - Axel Reichwein
