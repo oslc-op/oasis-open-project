@@ -18,9 +18,9 @@ OSLC-OP operates under the terms of the [Open Project Rules](https://www.oasis-o
 
 The work of the OSLC Open Project is overseen by its Project Governing Board. The members of the PGB are:
 
-- IBM - Jim Amsden
+- IBM - Jim Amsden (Co-chair)
+- KTH Royal Institute of Technology - Andrew Berezovskyi (Co-chair)
 - Koneksys - Axel Reichwein
-- KTH Royal Institute of Technology - Andrew Berezovskyi
 - Siemens AG - Bill Chown
 
 ## Technical Steering Committee (TSC) 
