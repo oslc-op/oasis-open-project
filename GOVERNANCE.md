@@ -10,8 +10,8 @@ This document defines the project's community governance per [OASIS Open Project
 
 The following code repositories are governed by the **OSLC Open Project** community and maintained under the project namespace:
 
-* **[admin](https://github.com/oslc-op/admin):** this repo, an administrative repo.
-* **[specs](https://github.com/oslc-op/specs):** specifications and other documents produced by the project.
+* **[oslc-admin](https://github.com/oslc-op/oslc-admin):** this repo, an administrative repo.
+* **[oslc-specs](https://github.com/oslc-op/oslc-specs):** specifications and other documents produced by the project.
 
 ## Community Roles
 
