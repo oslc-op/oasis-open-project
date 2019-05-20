@@ -31,7 +31,7 @@ The following code repositories are governed by the **OSLC Open Project** commun
 
 ### List of PGB Members
 
-* IBM - Jim Amsden
+* IBM - Jim Amsden (Co-chair)
+* KTH Royal Institute of Technology - Andrew Berezovskyi (Co-chair)
 * Koneksys - Axel Reichwein
-* KTH Royal Institute of Technology - Andrew Berezovskyi
 * Siemens AG - Bill Chown
