@@ -41,6 +41,8 @@ The TSC meets once a week to discuss the important issues. Call details:
 > One tap audio Dial In: +1.512.402.2718,,2979764690# (US) or +49.89.380.38719 (Germany)
 > Looking for a different dial in number? Please see: https://meet.jit.si/static/dialInInfo.html?room=oslc-op
 
+[Import OSLC OP calendar (iCal)](https://calendar.google.com/calendar/ical/402ele94dt2vc494bg9a5a422s%40group.calendar.google.com/public/basic.ics).
+
 
 ### Project Governing Board (PGB)
 
