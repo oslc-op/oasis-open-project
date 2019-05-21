@@ -23,7 +23,7 @@ Please send any general questions about OASIS Open Projects to staff at op-admin
 >
 > Meeting ID: 2979764690#
 >
-> One tap audio Dial In: +1.512.402.2718,,2979764690# (US) or +49.89.380.38719 (Germany)
+> One tap audio Dial In: +15124022718,,,,2979764690# (US) or +498938038719,,,,2979764690# (Germany)
 > Looking for a different dial in number? Please see: https://meet.jit.si/static/dialInInfo.html?room=oslc-op
 
 [Import OSLC OP calendar (iCal)](https://calendar.google.com/calendar/ical/402ele94dt2vc494bg9a5a422s%40group.calendar.google.com/public/basic.ics).
