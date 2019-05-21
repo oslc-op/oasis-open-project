@@ -22,28 +22,6 @@ More information is available in the [OASIS Open Project handbook](https://www.o
 
 ## Project Leadership
 
-### Technical Steering Committee (TSC)
-
-TSC responsible for the overall technical health and direction of the project; final reviewers of PRs, responsible for releases, responsible for overseeing work of maintainers and community leaders.
-
-List of the TSC Members:
-
-* Jim Amsden
-* Andrew Berezovskyi
-* Axel Reichwein
-
-The TSC meets once a week to discuss the important issues. Call details:
-
-> Join meeting: https://meet.jit.si/oslc-op
->
-> Meeting ID: 2979764690#
->
-> One tap audio Dial In: +1.512.402.2718,,2979764690# (US) or +49.89.380.38719 (Germany)
-> Looking for a different dial in number? Please see: https://meet.jit.si/static/dialInInfo.html?room=oslc-op
-
-[Import OSLC OP calendar (iCal)](https://calendar.google.com/calendar/ical/402ele94dt2vc494bg9a5a422s%40group.calendar.google.com/public/basic.ics).
-
-
 ### Project Governing Board (PGB)
 
 PGB is responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth.
@@ -55,3 +33,13 @@ List of the PGB Members:
 * Koneksys - Axel Reichwein
 * Siemens AG - Bill Chown
 * Tasktop - Wesley Coelho
+
+### Technical Steering Committee (TSC)
+
+TSC responsible for the overall technical health and direction of the project; final reviewers of PRs, responsible for releases, responsible for overseeing work of maintainers and community leaders.
+
+List of the TSC Members:
+
+* Jim Amsden
+* Andrew Berezovskyi
+* Axel Reichwein
