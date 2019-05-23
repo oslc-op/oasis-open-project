@@ -21,6 +21,8 @@ Please send any general questions about OASIS Open Projects to staff at op-admin
 
 > Join meeting: https://meet.jit.si/oslc-op
 >
+> The meeting minutes are edited in https://etherpad.net/p/oslc-op-pad
+>
 > Meeting ID: 2979764690#
 >
 > One tap audio Dial In: +15124022718,,,,2979764690# (US) or +498938038719,,,,2979764690# (Germany)
