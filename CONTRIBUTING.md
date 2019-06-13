@@ -44,3 +44,6 @@ We prefer you submit PRs from your own fork of the project. Please fork the proj
 3. If you have write access to the repoository, you may merge the Pull Request in once you have the sign-off of two other developers. If you do not have permission to do that, you may request the second reviewer to merge it for you.
 4. You are required to sign our CLA before your PR can be merged. This is handled via bot and only needs to be signed once.
 
+### About the CLA Bot
+Once you've submitted a Pull Request, the CLA Assistant bot will automatically check to see whether you have signed the [Individual CLA](https://github.com/oasis-open-projects/documentation/blob/master/policy/clas-and-special-covenant.md). If you have already done so, this check will pass. If not, the cla check does not pass and the bot will comment on the PR with a link and instruction for you to click and sign the CLA electronically via GitHub. If you use different GitHub accounts for work and personal use, please make sure you are signed in to the correct account.
+
