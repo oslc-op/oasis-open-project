@@ -6,18 +6,28 @@ Please note we have a [code of conduct](/CODE_OF_CONDUCT.md), please follow it i
 
 ## Communication channels
 
-**Issues.** One of the best ways to communicate with the rest of the project contributors is by opening an issue.
+### Issues
 
-**Discussions and announcements.** Longer discussions can be taken on the [Discourse forum](https://forum.open-services.net/c/oslc-op) or via the mailing lists:
+One of the best ways to communicate with the rest of the project contributors is by opening an issue.
+
+### Discussions and announcements
+
+Longer discussions can be taken on the [Discourse forum](https://forum.open-services.net/c/oslc-op) or via the mailing lists:
 
 - oslc-op@lists.oasis-open.org ([subscribe](mailto:oslc-op-subscribe@lists.oasis-open.org), [archives](http://lists.oasis-open.org/archives/oslc-op))
 - oslc-op-pgb@lists.oasis-open.org (for PGB members only, [archives](http://lists.oasis-open.org/archives/oslc-op-pgb))
 
 Be sure to reply to the confirmation request to activate your subscription.
 
-Please send any general questions about OASIS Open Projects to staff at op-admin@oasis-open.org. Information about the Open Projects program can be found at https://oasis-open-projects.org.
+General announcements will be posted via multiple channels including blog posts under https://open-services.net/news/ ([RSS](https://open-services.net/index.xml)). Please send any general questions about OASIS Open Projects to staff at op-admin@oasis-open.org. Information about the Open Projects program can be found at https://oasis-open-projects.org.
 
-**Meetings.** The OSLC Open Project general call takes place once a week. Everyone is welcome to join the call:
+### Chat
+
+OSLC community has used [Slack](https://oslc-op.slack.com) for a long while and it will become home to the Open Project discussions from now on.
+
+## Online Meetings
+
+The OSLC Open Project general call takes place once a week. Everyone is welcome to join the call:
 
 > Join meeting: https://meet.jit.si/oslc-op
 >
@@ -29,8 +39,6 @@ Please send any general questions about OASIS Open Projects to staff at op-admin
 > Looking for a different dial in number? Please see: https://meet.jit.si/static/dialInInfo.html?room=oslc-op
 
 [Import OSLC OP calendar (iCal)](https://calendar.google.com/calendar/ical/402ele94dt2vc494bg9a5a422s%40group.calendar.google.com/public/basic.ics).
-
-**Chat.** OSLC community has used [Slack](https://oslc-op.slack.com) for a long while and it will become home to the Open Project discussions from now on.
 
 ## Git Workflow
 
