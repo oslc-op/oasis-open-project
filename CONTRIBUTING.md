@@ -24,7 +24,7 @@ OSLC community has used [Slack](https://oslc-op.slack.com) for a long while and 
 
 The OSLC Open Project general call takes place once a week. Everyone is welcome to join the call:
 
-> Join meeting: https://meet.jit.si/oslc-op
+> Join meeting: https://meet.jit.si/oslc-op#config.startWithVideoMuted=true
 >
 > The meeting minutes are edited in https://etherpad.net/p/oslc-op-pad
 >
