@@ -26,7 +26,7 @@ The OSLC Open Project general call takes place once a week. Everyone is welcome 
 
 > Join meeting: https://meet.jit.si/oslc-op#config.startWithVideoMuted=true
 >
-> The meeting minutes are edited in https://etherpad.net/p/oslc-op-pad
+> The meeting minutes are edited in https://hackmd.io/@driib/oslc-op-minutes/edit
 >
 > Meeting ID: 2979764690#
 >
