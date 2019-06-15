@@ -18,7 +18,7 @@ General announcements will be posted via multiple channels including blog posts 
 
 ### Chat
 
-OSLC community has used [Slack](https://oslc-op.slack.com) for a long while and it will become home to the Open Project discussions from now on.
+OSLC community has used [Slack](https://oslc-op.slack.com) for a long while and it will become home to the Open Project discussions from now on. Use [this invite](https://join.slack.com/t/oslc-op/shared_invite/enQtNjY2MjI4ODMzNDkzLWE2ODdhZjU4Y2I1NjJkMTlmYTU3NzJiM2QyNmE4MjEyNWI0NmE3MTM1N2E4ZjcwYmVkNDA2N2M3ZjU1YzI2OTE) to join our Slack channel.
 
 ## Online Meetings
 
