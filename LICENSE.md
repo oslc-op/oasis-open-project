@@ -4,7 +4,7 @@ This Open Project operates under the licenses below plus the additional Non-Asse
  
 OASIS invites anyone who knows of any IPR claims to disclose them if they may be essential to the implementation of any of the work of this project so that notice of them may be posted. 
 
-For information on any statements regarding IPR claims related to the work of this project, see the [OASIS OP IPR Statements](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/IPR_STATEMENTS.md#open-services-for-lifecycle-collaboration-oslc-open-project) page.
+For information on any statements regarding IPR claims related to the work of this project, see the [OASIS OP IPR Statements](https://github.com/oasis-open-projects/documentation/blob/master/administration/IPR_STATEMENTS.md#open-services-for-lifecycle-collaboration-oslc-open-project) page.
 
 ## License Text
 
