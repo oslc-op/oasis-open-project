@@ -12,7 +12,7 @@ One of the best ways to communicate with the rest of the project contributors is
 
 ### Discussions and announcements
 
-Longer discussions can be taken on the [Discourse forum](https://forum.open-services.net/c/oslc-op) ~or via the mailing lists~ (not working yet).
+Longer discussions can be taken on the [Discourse forum](https://forum.open-services.net/c/oslc-op) or via the [mailing list](https://lists.oasis-open-projects.org/g/oslc-op).
 
 General announcements will be posted via multiple channels including blog posts under https://open-services.net/news/ ([RSS](https://open-services.net/index.xml)). Please send any general questions about OASIS Open Projects to staff at op-admin@oasis-open.org. Information about the Open Projects program can be found at https://oasis-open-projects.org.
 
