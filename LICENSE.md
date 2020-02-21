@@ -1,6 +1,6 @@
 # OSLC OPEN PROJECT LICENSE FILE
 
-This Open Project operates under the licenses below plus the additional Non-Assertion Covenant for Standards Track Project Specifications.
+This Open Project operates under the licenses below plus the [Specification NonAssertion Covenant](https://www.oasis-open.org/policies-guidelines/open-projects-process#repository-specification-licenses-special-covenant).
  
 OASIS invites anyone who knows of any IPR claims to disclose them if they may be essential to the implementation of any of the work of this project so that notice of them may be posted. 
 
