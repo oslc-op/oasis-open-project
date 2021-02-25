@@ -26,20 +26,10 @@ More information is available in the [OASIS Open Project handbook](https://www.o
 
 PGB is responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth.
 
-List of the PGB Members:
-
-* IBM - Jim Amsden (Co-chair)
-* KTH Royal Institute of Technology - Andrew Berezovskyi (Co-chair)
-* Koneksys - Axel Reichwein
-* Siemens AG - Bill Chown
-* Tasktop - Wesley Coelho
+The members of the OSLC PGB are maintained on the [Open Services About page](https://open-services.net/about/).
 
 ### Technical Steering Committee (TSC)
 
 TSC responsible for the overall technical health and direction of the project; final reviewers of PRs, responsible for releases, responsible for overseeing work of maintainers and community leaders.
 
-List of the TSC Members:
-
-* Jim Amsden
-* Andrew Berezovskyi
-* Axel Reichwein
+The members of the OSLC TSC are maintained on the [Open Services About page](https://open-services.net/about/).
