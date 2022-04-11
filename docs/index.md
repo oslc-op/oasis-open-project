@@ -1,4 +1,4 @@
-<img src="../graphics/oslc-logo.png" width="50">
+<img src="oslc-logo.png" width="50">
 
 <h1>Open Services for Lifecycle Collaboration (OSLC-OP) Project Governing Board (PGB)</h1>
 
