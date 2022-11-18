@@ -6,7 +6,7 @@
   
 <p>PGB members include representatives of <a href="https://open-services.net/about/#sponsors">OSLC sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee.</p>
 
-<p><i>PGB Chairs</i>: Jim Amsden, Andrew Berezovskyi</p>
+<p><i>PGB Chairs</i>: Jim Amsden, Jad	El-khoury</p>
 
 <p>PGB members:</p>
 
