@@ -1,0 +1,62 @@
+# OSLC OP Meeting minutes (Jan 26, 2023)
+
+**Chairs:** Jim Amsden, Jad El-khoury
+
+**Attendees:** 
+
+- [X] Jim Amsden (KTH)
+- [x] Jad El-khoury (KTH)
+- [ ] Gray Bachelor (IBM)
+- [X] David Honey (IBM)
+- [X] Eran Gray (IBM)
+- [x] Jim Gammon (Raython Technologies)
+- [ ] Partrick Ollerton (PTC)
+- [ ] Michael Rowe (IBM)
+- [ ] Ed Gentry (MID)
+- [ ] Tanu (PTC)
+- [ ] Frej (SodiusWillert)
+- [ ] Andrew Berezovskyi (KTH)
+- [ ] Ralph Schoon (IBM)
+- [ ] Axel Reichwein (Koneksys)
+- [ ] Unai Esandi
+- [ ] Martin Ulrich (Bosch)
+
+**Previous minutes:** https://github.com/oslc-op/oslc-admin/blob/master/minutes/2022/2023-01-12.md
+
+## Agenda
+- [x] converting "impact call" to a PGB
+- [x] OASIS Nominations
+- [ ] Linking Profiles specification editing progress 
+- [ ] Request SMV to submit Config Management 1.0 for COS
+- [ ] OSLC Automation spec
+
+## Minutes
+
+### PGB
+We agreed to convert the current "impact call" meeting series to  a PGB
+
+### OASIS Nominations
+OSLC PROMOCODE v1.0, AM 3.0 & QM 2.1 are nominated in the "Outstanding Approved Standard" category in the Open Cup Award.
+
+Jim Gammon hopefully can attend just after this meeting
+
+### what to do next 
+- Finalize incomplete work from the Config Management specs.
+- Continue work on Linking Profile, and Link Index
+- Product Definition - need to find some momentum behind this effort. Start with a domain specification for a product, parts, ...
+- 
+
+## Action items
+
+- [ ] Jad/Jim to reinitiate the PGB meetings - convert current series
+- [X] Jad to ensure he is a member of the PGB
+- [X] Jad to invite new members to the PGB
+- [ ] Eran to reach out the Linking Profile assignees to ensure some progress occurs.
+
+- [ ] Jim (or Jad?) to publish NS files - with help of Andrew. Config Management PSD01 was published, but not TRS? Andrew says PSD01 files were published for TRS 
+- [ ] Jim to publish NS files for PS01 Config and TRS, not wait until OS. COS is not really a published stage, just a milestone 
+
+- [ ] Jim will check the release tags, at least the latest revision is tagged.
+- [ ] Jim will continue the process to submit Config Management 1.0 for COS - pending 3rd SoU
+- [ ] Patrick & Tanupreet to provide a SoU for Config Managemnet 1.0 (They got an email from Andrew with info)
+
