@@ -1,4 +1,4 @@
-# OSLC Product Workgroup (March 6th 2023)
+# OSLC Product Workgroup (March 20th 2023)
 
 Location : Online at https://meet.jit.si/oslc-op
 
