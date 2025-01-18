@@ -33,7 +33,7 @@ The OSLC Open Project general call takes place once a week. Everyone is welcome 
 > One tap audio Dial In: +15124022718,,,,2979764690# (US) or +498938038719,,,,2979764690# (Germany)
 > Looking for a different dial in number? Please see: https://meet.jit.si/static/dialInInfo.html?room=oslc-op
 
-[Import OSLC OP calendar (iCal)](https://lists.oasis-open-projects.org/g/oslc-op/ics/4043370/1201863955/feed.ics). The call is at 11:00AM US Eastern (last updated January 2025). **Be sure to check the [OP calendar](https://lists.oasis-open-projects.org/g/oslc-op/calendar) for the most up-to-date info.**
+The call is at 11:00AM US Eastern (last updated January 2025). **Be sure to check the [OP calendar](https://lists.oasis-open-projects.org/g/oslc-op/calendar) for the most up-to-date info and the iCal invites.**
 
 Unfortunately, Jitsi functionality is limited in Safari (screen-sharing does not work) and on Firefox it uses considerable CPU resources and hangs sometimes. Please try using Chrome or [Brave](https://brave.com/) if you encounter significant problems.
 
