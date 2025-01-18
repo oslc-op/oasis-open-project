@@ -22,7 +22,7 @@ OSLC community has used [Slack](https://oslc-op.slack.com) for a long while and 
 
 ## Online Meetings
 
-The OSLC Open Project general call takes place once a week. Everyone is welcome to join the call:
+The OSLC Open Project general call takes place once a week. Everyone is welcome to join the call (no dues, CLAs, or membership required):
 
 > Join meeting: https://meet.jit.si/oslc-op#config.startWithVideoMuted=true
 >
